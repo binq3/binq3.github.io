@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to YVR3
 
 You can use the [editor on GitHub](https://github.com/binq3/binq3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
